@@ -1,2 +1,4 @@
-<h2><b>Night Intruder</b></h2>
+<div align="center">
+  <h1>Night Intruder</h1>
+</div>
 <hr>
