@@ -5,7 +5,7 @@ from ultralytics import YOLO
 from deep_sort_realtime.deepsort_tracker import DeepSort
 
 # Load model
-model = YOLO("HumanDetection.pt")
+model = YOLO("model/HumanDetection.pt")
 
 # Initialize DeepSORT tracker
 tracker = DeepSort(max_age=10)
