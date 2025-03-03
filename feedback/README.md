@@ -1,4 +1,4 @@
-# FEEDBACKS  
+# FEEDBACKS FOR NX  
 ## 1. The process of converting the model to fit the NX system  
 - There is no clear guidance on the website.  
 - The packets and software used in the guide are quite outdated, causing software conflicts.  
