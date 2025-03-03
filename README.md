@@ -33,7 +33,9 @@ This guide provides an overview of how to set up and use the Intrusion 3D Detect
 ## 3. Detecting Intrusions  
 •	Once a person enters a zone after closing time, an alert is triggered.  
 •	The detection algorithm ensures intrusions are flagged only when both foot position and head height fall within the intrusion area.  
-## 4. Exiting the Application
+## 4. Load our customed model  
+• File model `HumanDetection.pt` is located in folder code.
+## 5. Exiting the Application
 •	Press Q at any time to quit the application.    
 
 
