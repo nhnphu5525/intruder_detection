@@ -8,7 +8,7 @@ Ensure that your system meets the following requirements:
 •	Required dependencies: All required packages are listed in requirements.txt file that located in folder code.    
 ## II. Installation Steps  
 ### 1. Clone the Repository  
-• **Clone our repository**: `git clone https://github.com/nhnphu5525/night_intruder/`  
+• **Clone our repository**: `git clone https://github.com/nhnphu5525/intruder_detection/`  
 • **Navigate to repository folder**: `cd intrusion-3d-detection`  
 ### 2. Install Dependencies  
 • **Install necessary packages**: `pip install -r requirements.txt`
