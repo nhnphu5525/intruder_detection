@@ -1,5 +1,0 @@
-opencv-python
-numpy
-time
-ultralytics
-deep_sort_realtime
