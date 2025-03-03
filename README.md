@@ -8,8 +8,8 @@ Ensure that your system meets the following requirements:
 •	Required dependencies: All required packages are listed in requirements.txt file that located in folder code.    
 ## II. Installation Steps  
 ### 1. Clone the Repository  
-• **Clone our repository**: `git clone https://github.com/your-repo/intrusion-3d-detection.git`  
-• **Navigate to repository folder**: `cd intrusion-3d-detection`
+• **Clone our repository**: `git clone https://github.com/nhnphu5525/night_intruder/`  
+• **Navigate to repository folder**: `cd intrusion-3d-detection`  
 ### 2. Install Dependencies  
 • **Install necessary packages**: `pip install -r requirements.txt`
 ### 3. Ensure PyTorch Supports CUDA (Optional for GPU Acceleration)  
