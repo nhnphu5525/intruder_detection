@@ -17,8 +17,7 @@ Ensure that your system meets the following requirements:
 import torch  
 print(torch.cuda.is_available())  # Should return True if GPU is available
 ```
-### 4. Download the HumanDetection Model  
-### 5. Run the Application  
+### 4. Run the Application  
 • **Run app command**: `python main.py`
 # User Guide  
 This guide provides an overview of how to set up and use the Intrusion 3D Detection system effectively. For further customization, modify main.py and adjust the detection logic as needed.  
