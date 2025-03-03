@@ -9,7 +9,7 @@ Ensure that your system meets the following requirements:
 ## II. Installation Steps  
 ### 1. Clone the Repository  
 • **Clone our repository**: `git clone https://github.com/nhnphu5525/intruder_detection/`  
-• **Navigate to repository folder**: `cd intrusion-3d-detection`  
+• **Navigate to repository folder**: `cd intruder_detection`  
 ### 2. Install Dependencies  
 • **Install necessary packages**: `pip install -r requirements.txt`
 ### 3. Ensure PyTorch Supports CUDA (Optional for GPU Acceleration)  
